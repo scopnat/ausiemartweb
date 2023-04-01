@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace ausemartweb.Pages.App;
+namespace ausemartweb.Pages;
 
 public class IndexModel : PageModel
 {
